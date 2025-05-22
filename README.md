@@ -24,10 +24,11 @@ This project is an **Augmented Reality Business Card** built using **Unity**, **
 | 📱 Android Platform | Target deployment platform |
 
 ---
+## 🧪 Demo
 
-## 🔗 Demo Video
+![AR Business Card Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg1YjdqeWlsbTE5NzkzbDA2aWU3cmNneHd0ZXk5dW1mMHpuMmt3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6axdBful4Z2fTblYF/giphy.gif)
 
-🎥(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg1YjdqeWlsbTE5NzkzbDA2aWU3cmNneHd0ZXk5dW1mMHpuMmt3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6axdBful4Z2fTblYF/giphy.gif)
+---
 
 ## ✨ Features
 
@@ -102,17 +103,6 @@ Assets/
 
 ```
 
----
-
-## 🧪 Demo & Testing
-
-- Tested using Unity's **Play Mode with webcam**.
-- Successfully displayed avatar and business card when target was detected.
-- Verified button functionality opens correct URLs.
-- Validated animations play correctly on detection.
-
----
-
 ## 📲 Future Improvements
 
 * 📱 iOS Support & WebAR
@@ -133,8 +123,7 @@ Assets/
 
 If you liked the project or have questions, feel free to connect:
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hari-prasath-selvan-shp0420/)
 
 ---
 
